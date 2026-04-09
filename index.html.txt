@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>何軒庭的自我介紹</title>
+    <style>
+        body {
+            font-family: "Noto Sans TC", sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            line-height: 1.6;
+            padding: 0 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 2em;
+        }
+        p {
+            margin-bottom: 16px;
+            font-size: 1.1em;
+        }
+        hr {
+            margin: 30px 0;
+        }
+    </style>
+</head>
+<body>
+    <h2>👤 自我介紹</h2>
+
+    <p>
+        您好，我是何軒庭，目前就讀於國立勤益科技大學智慧自動化工程系。
+        在學期間，我致力於學習智慧製造與自動化控制的核心技術，並具備工業電子與電路實作的基礎能力，
+        同時對自動化倉儲系統的應用有深入研究。
+    </p>
+
+    <p>
+        我曾參與「智慧自動化倉儲系統」提案開發，並嘗試導入強化學習技術以優化物流運作效率，
+        提升系統整體性能與決策能力。
+    </p>
+
+    <p>
+        我具備邏輯嚴謹與系統化思考的特質，擅長將理論轉化為實際工程應用，
+        未來期望成為一名能結合人工智慧與硬體整合能力的自動化工程師，
+        持續在智慧製造領域中發展。
+    </p>
+
+    <hr>
+
+    <p style="text-align:center; font-size:0.9em;">
+        © 2026 何軒庭
+    </p>
+</body>
+</html>
